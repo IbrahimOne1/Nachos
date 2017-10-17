@@ -1,0 +1,10 @@
+
+--Cette ligne, et les suivantes ci-dessous, seront ignorées--
+
+M    code/test/start.S
+M    code/threads/main.cc
+M    code/threads/system.cc
+M    code/threads/system.h
+M    code/userprog/exception.cc
+M    code/userprog/progtest.cc
+M    code/userprog/syscall.h

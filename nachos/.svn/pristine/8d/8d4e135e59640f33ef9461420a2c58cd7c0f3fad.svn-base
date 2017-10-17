@@ -1,0 +1,16 @@
+#ifdef CHANGED 
+#include "syscall.h"
+
+
+
+int main() {
+	// tester GetString
+	
+	char chaine [20];
+	
+ 	GetString(chaine,20);
+	PutChar('\n');
+        Halt();
+}
+
+#endif //CHANGED 
